@@ -1,4 +1,4 @@
-Classification SpotCheck and Pipelines
+# Classification SpotCheck and Pipelines
 Overview
 This project demonstrates how to apply model spot-checking, hyperparameter tuning, and advanced pipeline techniques for classification problems using the Wisconsin Breast Cancer dataset. It builds upon standard machine learning workflow concepts and applies them specifically to classification tasks with multiple algorithms.
 
