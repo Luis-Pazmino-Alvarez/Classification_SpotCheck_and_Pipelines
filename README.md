@@ -38,13 +38,6 @@ Run the Jupyter Notebook:
 
 jupyter notebook Classification_SpotCheck_and_Pipelines.ipynb
 
-Folder Structure
-
-├── Classification_SpotCheck_and_Pipelines.ipynb  # Main notebook
-├── README.md
-├── LICENSE
-└── .gitignore
-
 License
 This project is licensed under the GPL-3.0 License.
 
