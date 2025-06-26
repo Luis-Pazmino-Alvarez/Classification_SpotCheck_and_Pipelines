@@ -39,5 +39,10 @@ Run the Jupyter Notebook:
 jupyter notebook Classification_SpotCheck_and_Pipelines.ipynb
 
 License
-This project is licensed under the GPL-3.0 License.
 
+📜 This project is licensed under the GPL-3.0 License.
+
+📬 Contact
+
+Created by Luis Pazmino Alvarez, consultant in finance, economics, and predictive modeling. 
+Connect with me on LinkedIn https://www.linkedin.com/in/luis-pazmino-702838248/.
